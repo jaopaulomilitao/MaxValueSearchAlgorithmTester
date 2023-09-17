@@ -1,2 +1,9 @@
-# Arquivo .gitignore
+# Arquivos temporários
+*~
+.DS_Store
+.vscode/
+.idea/
+
+# Cache
 node_modules/
+.cache/
